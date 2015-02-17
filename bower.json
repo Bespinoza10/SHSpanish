@@ -1,0 +1,23 @@
+{
+  "name": "SHSpanish",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Bespinoza10/SHSpanish",
+  "authors": [
+    "Brandon Espinoza <espinozab100@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "~2.2.0",
+    "foundation": "~5.5.1",
+    "jquery": "~2.1.3"
+  }
+}
